@@ -27,6 +27,8 @@
 // Includes
 //----------------------------------------------------------------------------//
 
+#include "Common.h"
+
 // System includes
 
 #include <boost/python.hpp>
@@ -39,8 +41,6 @@
 // Library includes
 
 #include <pvr/Camera.h>
-
-#include "Common.h"
 
 //----------------------------------------------------------------------------//
 // Namespaces

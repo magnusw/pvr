@@ -27,6 +27,8 @@
 // Includes
 //----------------------------------------------------------------------------//
 
+#include "Common.h"
+
 // System includes
 
 #include <map>
@@ -35,8 +37,6 @@
 
 #include <pvr/Raymarchers/Raymarcher.h>
 #include <pvr/Raymarchers/UniformRaymarcher.h>
-
-#include "Common.h"
 
 //----------------------------------------------------------------------------//
 // Helper functions

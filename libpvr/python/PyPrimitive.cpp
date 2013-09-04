@@ -27,6 +27,8 @@
 // Includes
 //----------------------------------------------------------------------------//
 
+#include "Common.h"
+
 // System includes
 
 #include <map>
@@ -54,8 +56,6 @@
 #include <pvr/Primitives/Rasterization/PyroclasticPoint.h>
 #include <pvr/Primitives/Rasterization/Line.h>
 #include <pvr/Primitives/Rasterization/PyroclasticLine.h>
-
-#include "Common.h"
 
 //----------------------------------------------------------------------------//
 // Helper functions

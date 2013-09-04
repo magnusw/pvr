@@ -27,6 +27,8 @@
 // Includes
 //----------------------------------------------------------------------------//
 
+#include "Common.h"
+
 // System includes
 
 #include <boost/python.hpp>
@@ -40,7 +42,6 @@
 
 #include <pvr/AttrTable.h>
 
-#include "Common.h"
 
 //----------------------------------------------------------------------------//
 // Namespaces

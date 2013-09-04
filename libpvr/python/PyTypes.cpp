@@ -27,6 +27,8 @@
 // Includes
 //----------------------------------------------------------------------------//
 
+#include "Common.h"
+
 // System includes
 
 #include <boost/python.hpp>
@@ -43,8 +45,6 @@
 #include <pvr/Exception.h>
 #include <pvr/Log.h>
 #include <pvr/Types.h>
-
-#include "Common.h"
 
 //----------------------------------------------------------------------------//
 // Namespaces

@@ -31,14 +31,13 @@
 //----------------------------------------------------------------------------//
 // Includes
 //----------------------------------------------------------------------------//
+#include <Python.h>
 
 // System headers
 
 // Library headers
-
 #include <boost/shared_ptr.hpp>
 
-#include <Python.h>
 
 #include <boost/python.hpp>
 #include <boost/python/dict.hpp>

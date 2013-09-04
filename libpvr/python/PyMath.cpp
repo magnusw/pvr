@@ -27,16 +27,15 @@
 // Includes
 //----------------------------------------------------------------------------//
 
-// System includes
+#include "Common.h"
 
-#include <boost/python.hpp>
+// System includes
 
 // Library includes
 
 #include <pvr/Math.h>
 
-#include "Common.h"
-
+#include <boost/python.hpp>
 //----------------------------------------------------------------------------//
 // Namespaces
 //----------------------------------------------------------------------------//

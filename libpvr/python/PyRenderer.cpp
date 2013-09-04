@@ -10,6 +10,8 @@
 
 // System includes
 
+#include <pvr/Renderer.h>
+
 #include <boost/shared_ptr.hpp>
 
 #include <boost/python.hpp>
@@ -20,8 +22,6 @@
 #include <boost/python/suite/indexing/vector_indexing_suite.hpp>
 
 // Library includes
-
-#include <pvr/Renderer.h>
 
 //----------------------------------------------------------------------------//
 // Helper functions

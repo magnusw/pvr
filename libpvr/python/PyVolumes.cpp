@@ -27,6 +27,8 @@
 // Includes
 //----------------------------------------------------------------------------//
 
+#include "Common.h"
+
 // System includes
 
 #include <map>
@@ -37,8 +39,6 @@
 #include <pvr/Volumes/CompositeVolume.h>
 #include <pvr/Volumes/ConstantVolume.h>
 #include <pvr/Volumes/VoxelVolume.h>
-
-#include "Common.h"
 
 //----------------------------------------------------------------------------//
 // Helper functions

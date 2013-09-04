@@ -27,6 +27,8 @@
 // Includes
 //----------------------------------------------------------------------------//
 
+#include "Common.h"
+
 // System includes
 
 #include <map>
@@ -34,8 +36,6 @@
 // Library includes
 
 #include <pvr/VoxelBuffer.h>
-
-#include "Common.h"
 
 //----------------------------------------------------------------------------//
 // Helper functions
